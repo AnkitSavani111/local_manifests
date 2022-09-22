@@ -7,7 +7,5 @@
  <project path="vendor/xiaomi" name="madmax7896/proprietary_vendor_xiaomi.git" remote="gitlab" revision="lineage-19.1" />
  <project path="vendor/xiaomi/munch" name="madmax7896/android_vendor_xiaomi_munch.git" remote="gitlab" revision="arrow-13.0" />
  <project path="vendor/xiaomi/munch-firmware" name="Ar5646L/vendor_xiaomi_munch-firmware.git" remote="gitlab" revision="twelve" />
- <remove-project name="device/xiaomi/spes" />
- <remove-project name="kernel/xiaomi/spes" />
 
 </manifest>
