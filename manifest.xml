@@ -7,6 +7,5 @@
  <project path="vendor/xiaomi/munch" name="akash07k/android_vendor_xiaomi_munch" remote="gitlab" revision="EvolutionX" />
  <project path="vendor/xiaomi/sm8250-common" name="akash07k/vendor_xiaomi_sm8250-common" remote="gitlab" revision="EvolutionX" />
  <project path="vendor/xiaomi/munch-firmware" name="Ar5646L/vendor_xiaomi_munch-firmware" remote="gitlab" revision="twelve" />
-  <project path="prebuilts/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" remote="aosp" revision="master" clone-depth="1" />
 
 </manifest>
