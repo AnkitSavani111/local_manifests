@@ -7,5 +7,6 @@
  <project path="vendor/xiaomi" name="madmax7896/proprietary_vendor_xiaomi.git" remote="gitlab" revision="lineage-19.1" />
  <project path="vendor/xiaomi/munch" name="madmax7896/android_vendor_xiaomi_munch.git" remote="gitlab" revision="arrow-13.0" />
  <project path="vendor/xiaomi/munch-firmware" name="Ar5646L/vendor_xiaomi_munch-firmware.git" remote="gitlab" revision="twelve" />
+  <project path="prebuilts/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" remote="gitlab" revision="master" clone-depth="1" />
 
 </manifest>
